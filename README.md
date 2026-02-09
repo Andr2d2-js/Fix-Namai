@@ -1,4 +1,4 @@
-RU
+RU https://andr2d2-js.github.io/Fix-Namai/
 
 FixNamai — адаптивный сайт-визитка строительной компании, разработанный с нуля с использованием HTML, CSS и JavaScript.
 
